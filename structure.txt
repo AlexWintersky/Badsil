@@ -1,0 +1,8 @@
+spotify-ad-blocker/
+├── manifest.json
+├── rules.json
+├── content.js
+├── background.js
+└── icons/
+    ├── icon48.png
+    └── icon128.png
